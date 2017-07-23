@@ -1,6 +1,6 @@
-Git commands
+# Git commands
 
-
+```
 git checkout -b <branch-name>
 git status
 git add .
@@ -37,4 +37,4 @@ Please don’t do blindly) in those files only and save. Do not rebuild or fix a
 11.	Git rebase – continue
 12.	**** once rebase done do basic testing listing all tabs pass/ fail summary etc/
 13.	Git push
-
+```
